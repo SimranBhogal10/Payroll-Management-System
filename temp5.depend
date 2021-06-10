@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1607895767 source:e:\code blocks\temp5\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<fstream>
+	<process.h>
+	<iomanip>
+	<fstream>
+	<stdio.h>
+	<conio.h>
+
